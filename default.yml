@@ -125,6 +125,9 @@ controls:
         labels_exclude_any:
           - C-Suite
 
+  scripts:
+    - paths: ./platforms/windows/scripts/*.ps1
+
 ###########################################################
 # Labels are static or dynamic groupings of computers for
 # scoping, reporting, and more.  Use labels for everything

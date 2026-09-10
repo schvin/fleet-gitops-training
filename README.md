@@ -47,4 +47,3 @@ To ensure your Fleet configuration stays up to date even when there are no new c
 Fleet is high-agency device management software. It is especially popular with [IT and security teams who manage lots of endpoints](https://fleetdm.com/customers).
 
 All source code [is public](https://fleetdm.com/transparency) and the product is supported by a [company called Fleet Device Management](https://fleetdm.com/handbook/company) that enrolls millions of laptops, tablets, phones, servers, and other computing devices in 90+ countries.
-# fleet-gitops-training

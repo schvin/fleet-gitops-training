@@ -121,7 +121,7 @@ controls:
 
   apple_settings:
     configuration_profiles:
-      - path: ../platforms/ios/declaration-profiles/passcode-settings.json
+      - path: ./platforms/ios/declaration-profiles/passcode-settings.json
         labels_exclude_any:
           - C-Suite
 

@@ -23,10 +23,10 @@ org_settings:
     ###########################################################
     org_name: dc gitops delta rename
 
-  webhook_settings:
-    activities_webhook:
-      enable_activities-wbhook: true
-      destination_url: https://bogus.webhook
+  #webhook_settings:
+  #  activities_webhook:
+  #    enable_activities-wbhook: true
+  #    destination_url: https://bogus.webhook
 
   server_settings:
     ###########################################################

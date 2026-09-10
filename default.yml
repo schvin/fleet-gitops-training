@@ -21,7 +21,12 @@ org_settings:
     # Read more:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
-    org_name: dc gitops test
+    org_name: dc gitops delta rename
+
+  webhook_settings:
+    activities_webhook:
+      enable_activities-wbhook: true
+      destination_url: https://bogus.webhook
 
   server_settings:
     ###########################################################

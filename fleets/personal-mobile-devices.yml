@@ -72,6 +72,10 @@ controls:
 # Apps to make available from the Apple App Store or Google Play
 ###########################################################
 software:
+  fleet_maintained_apps:
+    - slug: signal/darwin
+      self_service: true
+
   packages:
     - path: ../platforms/windows/software/cloudflare-warp.yml
       self_service: false
